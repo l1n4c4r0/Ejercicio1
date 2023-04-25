@@ -1,0 +1,58 @@
+14 de abril
+
+CONSULTAR ACERCA DE: MINI-WORKBOOK AGILE Y SCRUM
+1. Qué es un desarrollo en cascada?
+2. Qué es agile (metodologias ágiles)? 
+3. Qué es un marco de trabajo (Framewok)?
+4. Cuáles son las diferencias entre un desarrollo en cascada y un desarrollo agile?
+
+6. Qué nos propone agile a la hora de realizar un proyecto?
+7. Qué otras metodologías hay dentro de agile?
+5. Qué es scrum?
+8. Cuál es la diferencia entre agile y scrum?
+9. Qué formas ed trabajo había antes de de la existencia de agile y scrum?
+10. Qué procesos hay dentro de scrum?
+11. Quién forma parte del equipo scrum?
+12. Cuáles son los roles de scrum?
+13. Por qué es importante mantener scrum?
+
+Preparar exposición: 
+Sala 1: Dayli meeting, reunion de cierre de spring, 
+Sala 2: Scrum master, Sala 3: Product Owner
+
+13 de abril 
+
+Lógica de programación.
+RETO 1
+Acertijos de pensamiento lateral:
+1.
+2.
+3.
+4.
+5.
+RETO 2
+Crear paso a paso para: 
+1. Hacer un huevo frito
+2. Rutina diaria
+RETO 3
+Crea u diagrama de flujo para cada paso a paso
+RETO 4
+Ponle más condiciones a La Isla del Tesoro
+
+Workbook lógica de programación.
+Actividad 1: Completa la secuencia 
+Actividad 2: crea un diagrama de flujo con una actividad sencilla 
+Actividad 3: elije una de las 4 problematicas con tu grupo y dales solución con un diagrama de flujo
+
+La caja misteriosa: ...
+
+14 de abril
+Mini workbook Pedagogía activa y Pedagogía basada en proyectos.
+1. ¿Qué es la pedagogía activa?
+2. ¿Qué es la pedagogia basada en proyectos?
+3. ¿Qué es Pair Programing?
+4. ¿Qué es aula inversa?
+5. ¿Qué es live coding?  
+
+
+
